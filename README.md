@@ -1,3 +1,23 @@
+# link of working project:-
+https://youtu.be/bI_0vlk7B8A
+
+# the project has been created with the help of ReactJs. components have been isolated according to their tasks promoting reusability. a user can add as well decrease the amount of particular category in their shopping list . user has been facilitated to delete a particular category, one can reset their choices and can also see the number of unique items
+  
+
+# commands used:-
+
+### `npm cache clear --force` 
+### `npm cache verify`
+### `npm i -g npm`
+### `npm i -g create-react-app` 
+### `create-react-app react-app` 
+
+# additional dependencies/packages installed
+
+### `npm i react-bootstrap`
+### `npm i bootstrap`
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
